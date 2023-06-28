@@ -16,7 +16,7 @@ This is a simple web application that allows users to interact with the nUSD tok
 1. Clone the repository:
 
 ```
-git clone https://github.com/CHEVULAHAARVISH/UNREAL
+git clone [https://github.com/CHEVULAHAARVISH/UNREAL](https://github.com/CHEVULAHAARVISH/UNREAL/tree/main/UNREAL)
 cd nusd-token-web-app
 ```
 
