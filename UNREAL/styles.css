@@ -1,0 +1,33 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1, h2, h3 {
+    margin-top: 0;
+  }
+  
+  input[type="text"] {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .balance-container {
+    margin-bottom: 30px;
+  }
+  
+  .deposit-container, .redeem-container {
+    margin-bottom: 20px;
+  }
+  
